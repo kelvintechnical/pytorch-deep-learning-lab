@@ -17,17 +17,6 @@ Instead of treating models as "black boxes," I apply a diagnostic mindset to und
 
 ---
 
-## 🚀 Production ML Deployment
-
-🔗 **[Pan Card Tempering Detector App](https://github.com/kelvintechnical/Pan_Card_Tempering_Detector_App_Deployed)**  
-
-An end-to-end computer vision application designed to detect tampering in PAN card images using CNN architectures built with **PyTorch**.
-
-**Highlights:**
-- Model training & evaluation pipeline  
-- CNN-based inference engine  
-- Deployment-ready application structure  
-- Real-world security and document verification use case  
 
 ---
 
