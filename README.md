@@ -4,7 +4,7 @@
 
 This repository serves as my technical laboratory for mastering **PyTorch** and end-to-end Machine Learning pipelines. It documents my progress through 40+ real-world Data Science projects, with a specific focus on architecture search and custom gradient analysis.
 
----
+---   
 
 ## 🔬 Engineering Focus
 
