@@ -18,8 +18,6 @@ Instead of treating models as "black boxes," I apply a diagnostic mindset to und
 ---
 
 
----
-
 ## 📋 Project Tracker (40 Projects)
 
 | # | Project Domain | Key Tools | Status |
