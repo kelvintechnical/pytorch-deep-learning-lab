@@ -18,16 +18,6 @@ Instead of treating models as "black boxes," I apply a diagnostic mindset to und
 ---
 
 
-## 📋 Project Tracker (40 Projects)
-
-| # | Project Domain | Key Tools | Status |
-|:---|:---|:---|:---|
-| 01 | Classification Pipelines | Scikit-learn, Pandas, EDA | ✅ Complete |
-| 02 | Regression Analysis | Feature Engineering | 🔄 In Progress |
-| 03-40 | Deep Learning / NLP / CV | PyTorch, Transformers, CNNs | ⏳ Pipeline |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Framework:** PyTorch  
